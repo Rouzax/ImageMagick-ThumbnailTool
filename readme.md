@@ -140,4 +140,3 @@ Total thumbnails created: 21
 ## Contributing
 
 Feel free to submit bug reports, feature requests, or pull requests via the GitHub repository.
-```
